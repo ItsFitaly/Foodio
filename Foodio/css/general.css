@@ -219,15 +219,16 @@ body {
 }
 
 .btn--form {
-  background-color: #060615;
-  color: #e8e8ec;
+   background-color: #fff;
+  color: #555;
   align-self: end;
   padding: 1.2rem;
 }
 
 .btn--form:hover {
-  background-color: #fff;
-  color: #555;
+
+   background-color: #060615;
+  color: #e8e8ec;
 }
 
 .link:link,
